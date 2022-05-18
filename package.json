@@ -9,6 +9,7 @@
   "author": "Hugoku",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "yargs": "^17.5.1"
   }
 }
